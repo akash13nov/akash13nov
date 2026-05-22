@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Akash Sharma
 
-<!--
-**akash13nov/akash13nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | React Developer  
+💻 6+ years experience in UI Development  
+🌍 Preparing for international opportunities  
+🤖 Learning React + AI + Dashboard specialization
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- React
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/akash13nov
+- Email: akash13nov@gmail.com
