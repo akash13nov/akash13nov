@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Developer | React Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+Developer;6%2B+Years+of+UI+Development+Experience;Preparing+for+International+Opportunities;Learning+React+%2B+AI+%2B+Dashboard+Specialization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React+Developer;6%2B+Years+of+UI+Development+Experience;Preparing+for+International+Opportunities;Learning+Backend+%E2%80%93+Node.js%2C+Express.js+%26+MongoDB" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 - 💻 **6+ years** of experience building modern, responsive UI applications
 - 🌍 Currently **preparing for international opportunities**
-- 🤖 Currently **learning React + AI + Dashboard specialization**
+- 🤖 Currently **learning backend development — Node.js, Express.js & MongoDB**
 - ⚡ Passionate about clean code, performance, and great user experience
 - 🤝 Open to collaboration on frontend & dashboard-heavy projects
 
@@ -29,7 +29,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,angular,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,angular,html,css,nodejs,express,mongodb,git,github,vscode,postman,figma&perline=8" />
 </p>
 
 <p align="center">
@@ -38,6 +38,19 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=akash13nov&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
